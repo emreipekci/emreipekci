@@ -1,6 +1,6 @@
 ## 👋 Welcome to my GitHub!
 
-<img src="profile.jpg"/>
+<img src="profile.jpg" height = "60%" width = "60%"/>
 <!--
 **emreipekci/emreipekci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
