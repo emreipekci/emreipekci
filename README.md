@@ -3,6 +3,7 @@
 <img src="profile.jpg" height = "50%" width = "50%"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=emreipekci)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=emreipekci&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 <!--
 **emreipekci/emreipekci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
