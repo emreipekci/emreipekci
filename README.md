@@ -9,21 +9,17 @@
     </a>
   </div>
       <img src="https://komarev.com/ghpvc/?username=emreipekci&style=flat-square&color=yellow" alt=""/>
-      <h1>
-         Hey there 
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-      </h1>
+      <h1>Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 
----
 ### :woman_technologist: About Me :
 
 - 🔭 Architect turned developer!
-- 🌱 Leveling up my skills at The Odin Project.
+- 🌱 Leveling up my skills at <a href="https://github.com/TheOdinProject">The Odin Project.</a>
 - ✨  Big fan of board games, cinema, and all things creative.
 - 😺: I have two cats… or rather, they have me.
 
----
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>  
   <table>
@@ -60,7 +56,7 @@
   </table>
 </div>
 
----
+
 ### :writing_hand: Additional Skills :
 <div>  
   <table>
@@ -85,7 +81,7 @@
   </table>
 </div>
 
----
+
 ### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emreipekci&layout=compact&theme=vision-friendly-transparent)](https://github.com/anuraghazra/github-readme-stats)
