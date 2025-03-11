@@ -17,7 +17,7 @@
 - 🔭 Architect turned developer!
 - 🌱 Leveling up my skills at <a href="https://github.com/TheOdinProject">The Odin Project.</a>
 - ✨  Big fan of board games, cinema, and all things creative.
-- 😺: I have two cats… or rather, they have me.
+- 😺 I have two cats… or rather, they have me.
 
 
 ### :hammer_and_wrench: Languages and Tools :
