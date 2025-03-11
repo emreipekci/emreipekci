@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTkxcHlwanUzYXdsYmkwMWo5bHdrcGFlbHNxZXMzdzFhb2JpN2ZtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VPnfM9bmR0ZaQo3qtK/giphy.gif" width="100"/> 
   <div id="badges">
-    <a href="www.linkedin.com/in/emre-ipekci">
+    <a href="https://www.linkedin.com/in/emre-ipekci" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>  
     <a href="mailto:ipekci.emree@gmail.com">
