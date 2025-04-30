@@ -21,9 +21,22 @@
 
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>  
+- Languages & Frameworks:
+  <div>  
   <table>
     <tr>
+        <td align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
+        <br/>Python
+      </td>
+      <td align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="40" height="40"/>
+        <br/>Flask
+      </td>
+      <td align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+        <br/>JavaScript
+      </td>
       <td align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/>
         <br/>React
@@ -36,10 +49,14 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>
         <br/>HTML
       </td>
-      <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-        <br/>JavaScript
-      </td>
+    </tr>
+  </table>
+</div>
+
+- Build Tools & Version Control:
+  <div>  
+  <table>
+    <tr>
       <td align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
         <br/>npm
@@ -52,10 +69,37 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/>
         <br/>Git
       </td>
+      <td align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40" height="40"/>
+        <br/>Github
+      </td>
     </tr>
   </table>
 </div>
 
+- Databases:
+  <div>  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+        <br/>SQLite
+      </td>
+    </tr>
+  </table>
+</div>
+
+- Deployment:
+    <div>  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" width="40" height="40"/>
+        <br/>Heroku
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### :writing_hand: Additional Skills :
 <div>  
