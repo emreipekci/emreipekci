@@ -15,7 +15,7 @@
 ### :woman_technologist: About Me :
 
 - 🔭 Architect turned developer!
-- 🌱 Leveling up my skills at <a href="https://github.com/TheOdinProject">The Odin Project.</a>
+- 🌱 Leveling up my skills at <a href="https://github.com/TheOdinProject">The Odin Project</a> and <a href="https://it-omscholing.nl/">Make IT Work</a>
 - ✨  Big fan of board games, cinema, and all things creative.
 - 😺 I have two cats… or rather, they have me.
 
@@ -82,8 +82,8 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
-        <br/>SQLite
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+        <br/>MySQL
       </td>
     </tr>
   </table>
@@ -105,6 +105,14 @@
 <div>  
   <table>
     <tr>
+        <td align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" width="40" height="40"/>
+        <br/>Photoshop
+      </td>
+      <td align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-original.svg" width="40" height="40"/>
+        <br/>Illustrator
+      </td>
       <td align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40" height="40"/>
         <br/>Figma
@@ -113,22 +121,10 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="40" height="40"/>
         <br/>Canva
       </td>
-      <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" width="40" height="40"/>
-        <br/>Photoshop
-      </td>
-      <td align="center">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" width="40" height="40"/>
-        <br/>Illustrator
-      </td>
     </tr>
   </table>
 </div>
 
-
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emreipekci&layout=compact&theme=vision-friendly-transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **emreipekci/emreipekci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
