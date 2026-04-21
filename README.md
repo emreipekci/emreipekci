@@ -14,9 +14,9 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 Architect turned developer!
+- 🔭 Architect turned software engineer, combining design thinking with modern web development.
 - 🌱 Leveling up my skills at <a href="https://github.com/TheOdinProject">The Odin Project</a> and <a href="https://it-omscholing.nl/">Make IT Work</a>
-- ✨  Big fan of board games, cinema, and all things creative.
+- ✨ Fan of board games, cinema, and all things creative.
 - 😺 I have two cats… or rather, they have me.
 
 
@@ -25,6 +25,10 @@
   <div>  
   <table>
     <tr>
+      <td align="center">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/>
+        <br/>Java
+      </td>
         <td align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>
         <br/>Python
